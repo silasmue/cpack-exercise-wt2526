@@ -39,5 +39,10 @@ install(FILES
   DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}/cpackexamplelib
 )
 
+install(FILES "${CMAKE_CURRENT_SOURCE_DIR}/LICENSE"
+    DESTINATION share/doc/cpackexample
+    RENAME copyright
+)
+
 include(cmake/CPackConfig.cmake)
 
