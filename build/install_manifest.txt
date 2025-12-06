@@ -1,0 +1,6 @@
+/usr/lib/libcpackexamplelib.a
+/usr/bin/cpackexample
+/cpackexamplelib/fem.hpp
+/cpackexamplelib/filesystem.hpp
+/cpackexamplelib/flatset.hpp
+/cpackexamplelib/yamlParser.hpp

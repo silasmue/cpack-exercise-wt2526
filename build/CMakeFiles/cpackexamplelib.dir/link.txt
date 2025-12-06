@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpackexamplelib.a CMakeFiles/cpackexamplelib.dir/filesystem/filesystem.cpp.o CMakeFiles/cpackexamplelib.dir/fem/fem.cpp.o CMakeFiles/cpackexamplelib.dir/flatset/flatset.cpp.o CMakeFiles/cpackexamplelib.dir/yamlParser/yamlParser.cpp.o
+/usr/bin/ranlib libcpackexamplelib.a

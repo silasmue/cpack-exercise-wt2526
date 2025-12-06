@@ -1,0 +1,10 @@
+/mnt/cpack-exercise/build/CMakeFiles/cpackexamplelib.dir
+/mnt/cpack-exercise/build/CMakeFiles/cpackexample.dir
+/mnt/cpack-exercise/build/CMakeFiles/package.dir
+/mnt/cpack-exercise/build/CMakeFiles/package_source.dir
+/mnt/cpack-exercise/build/CMakeFiles/edit_cache.dir
+/mnt/cpack-exercise/build/CMakeFiles/rebuild_cache.dir
+/mnt/cpack-exercise/build/CMakeFiles/list_install_components.dir
+/mnt/cpack-exercise/build/CMakeFiles/install.dir
+/mnt/cpack-exercise/build/CMakeFiles/install/local.dir
+/mnt/cpack-exercise/build/CMakeFiles/install/strip.dir
